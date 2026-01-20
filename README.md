@@ -50,9 +50,3 @@
 - SQLite (по умолчанию) или PostgreSQL
 - Maven/Gradle
 
----
-
-## ⚙️ Как запустить локально
-
-1. Создай бота через [@BotFather](https://t.me/BotFather) и получи токен
-2. Укажи переменные в `BotConfig.java` или через `.env`:
